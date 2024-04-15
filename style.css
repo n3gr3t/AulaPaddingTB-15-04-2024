@@ -1,0 +1,14 @@
+section
+{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+article
+{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 25px 50px 75px 100px;
+}
